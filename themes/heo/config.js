@@ -5,14 +5,15 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://notion-next-gold-six.vercel.app/' },
-    { title: '访问文档中心获取更多帮助', url: 'https://notion-next-gold-six.vercel.app/' }
+    { title: '📚 与ChatGPT对话，开启知识的新篇章。', url: '/tag/ChatGPT' },
+    { title: '🖌️ SD：将想象力转化为视觉奇迹。', url: '/tag/StableDiffusion' }
+    { title: '🔮 用MJ的视角，探索艺术和技术的新境界。', url: '/tag/Midjourney' }
   ],
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'https://notion-next-gold-six.vercel.app/',
+  HEO_HERO_TITLE_3: '/tag/iOS',
   HEO_HERO_TITLE_4: '探索最新动态与实用功能',
   HEO_HERO_TITLE_5: '发现新知，拓展视界',
   HEO_HERO_TITLE_LINK: '/tag/必看精选',
