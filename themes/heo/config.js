@@ -6,8 +6,8 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '📚 与ChatGPT对话，开启知识的新篇章。', url: '/tag/ChatGPT' },
-    { title: '🖌️ SD：将想象力转化为视觉奇迹。', url: '/tag/StableDiffusion' }
-    { title: '🔮 用MJ的视角，探索艺术和技术的新境界。', url: '/tag/Midjourney' }
+    { title: '🖌️ SD：将想象力转化为视觉奇迹。', url: '/tag/StableDiffusion' },
+    { title: '🔮 用MJ的视角，探索艺术和技术的新境界。', url: '/tag/Midjourney' },
   ],
 
   // 英雄区(首页顶部大卡)
